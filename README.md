@@ -12,7 +12,7 @@ To create inclusive user experiences, communicators, designers and developers mu
 
 
 
-![An image of icons depicting the different impairments in humans](images/accessibility-practice.png)
+![An image of icons depicting the different impairments in humans](Images/accessibility-practice.png)
 
 
 
