@@ -20,9 +20,9 @@ Technical communication plays a pivotal role in accessibility by bridging the ga
 
 Key benefits of effective technical communication:
 
-* Reduces cognitive load: Clear and concise language simplifies understanding for users with cognitive impairments.
-* Enhances usability: Well-designed interfaces and instructions make  technology more intuitive to use.
-* Promotes independence: Accessible information empowers users to engage with technology independently.
-* Fosters inclusivity: By considering the needs of all users, technical communication helps create a more inclusive digital landscape.
-* Improves user satisfaction: Accessible products and services lead to higher user satisfaction and loyalty.
-* Aids in compliance: Adhering to accessibility standards, such as WCAG, ensures compliance with legal requirements.
+1. Reduces cognitive load: Clear and concise language simplifies understanding for users with cognitive impairments.
+2. Enhances usability: Well-designed interfaces and instructions make  technology more intuitive to use.
+3. Promotes independence: Accessible information empowers users to engage with technology independently.
+4. Fosters inclusivity: By considering the needs of all users, technical communication helps create a more inclusive digital landscape.
+5. Improves user satisfaction: Accessible products and services lead to higher user satisfaction and loyalty.
+6. Aids in compliance: Adhering to accessibility standards, such as WCAG, ensures compliance with legal requirements.
