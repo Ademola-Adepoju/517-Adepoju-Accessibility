@@ -11,9 +11,7 @@ The new age user is a diverse and dynamic group characterized by varying demogra
 To create inclusive user experiences, communicators, designers and developers must adhere to accessibility best practices. Inclusive design principles, which prioritize universal design, barrier-free environments, and inclusive language ensure that all users can access and interact with digital content. Adherence to web accessibility standards, such as the Web Content Accessibility Guidelines (WCAG), provides a framework for creating accessible websites and applications. Moreover, designing for mobile accessibility, which involves considering diverse devices and screen sizes, is crucial in today's mobile-first world. By incorporating these best practices into their design processes, organizations can create digital experiences that are accessible to everyone.
 
 
-
 ![An image of icons depicting the different impairments in humans](Images/accessibility-practice.png)
-
 
 
 ### The role of technical communication in accessibility
