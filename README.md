@@ -13,9 +13,16 @@ To create inclusive user experiences, communicators, designers and developers mu
 
 ![An image of icons depicting the different impairments in humans](Images/accessibility-practice.png)
 
-
+ 
 ### The role of technical communication in accessibility
 
 Technical communication plays a pivotal role in accessibility by bridging the gap between complex technologies and diverse [user needs](https://www.interaction-design.org/literature/topics/user-needs#:~:text=User%20needs%20refer%20to%20users,with%20a%20product%20or%20service). It involves crafting clear, concise, and user-friendly instructions, documentation, and interfaces that cater to individuals of all abilities. Effective technical communication presents information in multiple formats, such as text, audio, and visual aids, making it accessible to users with different sensory preferences and abilities. By prioritizing clarity and simplicity, technical communicators help make digital products more intuitive and usable, reducing the learning curve and enabling a wider audience to engage with technology independently. Well-designed technical communication also provides practical guidance for developers and designers, promoting best practices in accessibility and fostering an inclusive digital environment.
 
- 
+Key benefits of effective technical communication:
+
+* Reduces cognitive load: Clear and concise language simplifies understanding for users with cognitive impairments.
+* Enhances usability: Well-designed interfaces and instructions make  technology more intuitive to use.
+* Promotes independence: Accessible information empowers users to engage with technology independently.
+* Fosters inclusivity: By considering the needs of all users, technical communication helps create a more inclusive digital landscape.
+* Improves user satisfaction: Accessible products and services lead to higher user satisfaction and loyalty.
+* Aids in compliance: Adhering to accessibility standards, such as WCAG, ensures compliance with legal requirements.
